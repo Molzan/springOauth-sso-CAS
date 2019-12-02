@@ -20,7 +20,7 @@ import org.springframework.web.servlet.View;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 /**
- * @author zhailiang
+ * @author moran
  *
  */
 public class SsoSpelView implements View {
